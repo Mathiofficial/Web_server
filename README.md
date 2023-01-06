@@ -64,6 +64,9 @@ httpd.serve_forever()
 ```
 # OUTPUT:
 
+
+![](img.png.png)
+
 # RESULT:
 
 The program is executed succesfully
